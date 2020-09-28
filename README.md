@@ -10,6 +10,14 @@ This is my paragraph
 ## Section 2
 Making *unordered* list easy.
 
-- 1st item
-- 2nd item
-- 3rd item
+- 1st item A
+- 2nd item B
+- 3rd item C
+
+## Section 3
+ This is 4回コミットして、push to github
+
+ | Team | Win | Lose | Draw |
+ |-------|------|-------|-------|
+ |A|12|4|5
+ |B|5|5|2
